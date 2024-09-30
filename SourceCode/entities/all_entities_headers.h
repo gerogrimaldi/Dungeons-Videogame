@@ -1,0 +1,6 @@
+#include "entities/characters/Knight.h"
+#include "entities/characters/Rogue.h"
+#include "entities/characters/Mage.h"
+#include "entities/enemies/Orc.h"
+#include "entities/enemies/Skeleton.h"
+#include "entities/enemies/Pumpkin_Knight.h"

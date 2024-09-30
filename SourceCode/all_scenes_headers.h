@@ -1,0 +1,6 @@
+#include "scenes/Partida.h"
+#include "scenes/Menu.h"
+#include "scenes/Fight.h"
+#include "scenes/Instructions.h"
+#include "scenes/Selection.h"
+#include "scenes/HighScores.h"
